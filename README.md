@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=playfulCloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ⚡ LettCode
-![](https://leetcode.card.workers.dev/playfulCloud?theme=dark&font=baloo&extension=null&border=2&border_radius=8")
+![](https://leetcode.card.workers.dev/playful-Cloud?theme=dark&font=baloo&extension=null&border=2&border_radius=8")
 ---
 [![](https://visitcount.itsvg.in/api?id=playfulCloud&icon=0&color=12)](https://visitcount.itsvg.in)
 
