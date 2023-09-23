@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TechThreads-StoreAPI<br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with FrontEnd for TechThreads<br>🌱 I’m currently learning SpringBoot and java Effective Programming Concepts<br>💬 Ask me about my future plans.<br>⚡ LeetCode is fun
+🔭 I’m currently working on Arch Linux Installation Script <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with Ricing Hyprland<br>🌱 I’m currently Arch liunux<br>💬 Ask me about my future plans.<br>⚡ Ricing Arcgh is fun
 
 
 ## 🌐 Socials:
