@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Arch Linux Installation Script <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with Ricing Hyprland<br>🌱 I’m currently Arch liunux<br>💬 Ask me about my future plans.<br>⚡ Ricing Arch is fun
+🔭 I’m currently working on AGS widgets for my Arch desktop <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with JavaScript for ags<br>🌱 I’m currently learning JS <br>💬 Ask me about my future plans.<br>⚡ Ricing Arch is fun
 
 
 ## 🌐 Socials:
