@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AGS widgets for my Arch desktop <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with JavaScript for ags<br>🌱 I’m currently learning JS <br>💬 Ask me about my future plans.<br>⚡ Ricing Arch is fun
+🔭 I’m currently working on Dream-tracker habit tracking app <br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with React for Dream-tracker<br>🌱 I’m currently learning Spring <br>💬 Ask me about my future plans.<br>⚡ Nothing is fun enough
 
 
 ## 🌐 Socials:
