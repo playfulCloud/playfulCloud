@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=playfulCloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://leetcode.card.workers.dev/playful-Cloud?theme=dark&hide&extension=null&border=2&border_radius=10")
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=playfulCloud&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=playfulCloud&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=playfulCloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
